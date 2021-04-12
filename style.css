@@ -104,3 +104,18 @@ input, select {
 
 
 /* My Code Begins*/
+
+body {
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+}
+/*COVER*/
+#cover {
+     background-image: url('/rootfolder/carstart.jpg');
+     background-repeat: no-repeat;
+     position: center;
+     background-size: cover, cover;
+     height: 545px;
+     border-bottom: 8px solid #8A0D00;
+}
